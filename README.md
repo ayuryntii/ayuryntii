@@ -1,28 +1,29 @@
 <div align="center">
-  <!-- PREMIUM ARCHITECT HEADER -->
+  <!-- PROFESSIONAL SOFT BLUE HEADER -->
   <img src="https://capsule-render.vercel.app/render?type=waving&color=3B82F6&height=220&section=header&text=Ayu%20Rianti&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
-  <!-- PROFESSIONAL TYPING SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Specialist+%F0%9F%AA%A7;Mobile+Development+Orchestrator;UI/UX+Architect+%26+Balsamiq+Expert;Office+Productivity+Pro" alt="Typing SVG" />
+  <!-- DYNAMIC PROFESSIONAL TYPING BIO -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student+%F0%9F%AA%A7;Mobile+Development+Orchestrator;UI/UX+Architect+%26+Balsamiq+Expert;Office+Productivity+Professional" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <!-- AESTHETIC GIRL CODING HERO -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GIFs/Girl_Coding.gif" width="100%" />
+  <!-- HIGH-QUALITY AESTHETIC GIRL CODING GIF -->
+  <br/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/land.gif" width="100%" />
 </div>
 
 ---
 
-### 📘 Professional Profile
-Saya adalah mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhammadiyah Cirebon**. Saya berdedikasi untuk menciptakan solusi digital yang elegan dan efisien. Dengan fondasi kuat di **Mobile Development** dan **UI/UX Design**, saya juga menguasai berbagai alat produktivitas untuk mendukung alur kerja yang profesional dan sistematis.
+### 📘 Professional Summary
+Saya adalah mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhammadiyah Cirebon**. Passion saya terletak pada penggabungan antara logika rekayasa perangkat lunak yang kompleks dengan estetika desain yang modern. Fokus utama saya adalah membangun ekosistem **Mobile Development** yang efisien, intuitif, dan berdampak nyata.
 
 ---
 
 ### 🚀 Comprehensive Tech Stack
 
-#### 📱 Mobile & Core Engineering
+#### 📱 Mobile App Ecosystem
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -31,7 +32,7 @@ Saya adalah mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhamma
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-#### 🌐 Web & Backend Systems
+#### 🌐 Web & Backend Mastery
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -69,28 +70,15 @@ Saya adalah mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhamma
 
 ---
 
-### ✉️ Professional Connectivity
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="200">
-        <a href="mailto:ayu@umc.ac.id">
-          <img src="https://img.shields.io/badge/GMAIL-ayu%40umc.ac.id-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://linkedin.com/in/ayuryntii">
-          <img src="https://img.shields.io/badge/LINKEDIN-ayuryntii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://instagram.com/ayuryntii">
-          <img src="https://img.shields.io/badge/INSTAGRAM-ayuryntii-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+### ✉️ Connect With Me
+<p align="center">
+  <a href="mailto:ayuu.riantii25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ayuu.riantii25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ayuryntii_">
+    <img src="https://img.shields.io/badge/Instagram-ayuryntii__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
   <br/>
