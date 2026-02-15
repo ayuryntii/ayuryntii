@@ -1,7 +1,8 @@
 <div align="center">
-  <!-- STABLE TEXT HEADER -->
-  <h1 align="center">Ayu Rianti</h1>
-  <p align="center">Informatics Engineering Student @ UMC Cirebon</p>
+  <!-- PREMIUM TYPOGRAPHY HEADER (NAME) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=55&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=100&lines=Ayu+Rianti" alt="Name SVG" />
+  
+  <p align="center"><b>Informatics Engineering Student @ UMC Cirebon</b></p>
 </div>
 
 <div align="center">
@@ -17,7 +18,7 @@
 
 ---
 
-### 📘 Professional Summary
+### 📘 Professional Overview
 Saya mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhammadiyah Cirebon**. Fokus saya adalah membangun ekosistem **Mobile & Web Development** yang efisien dengan sentuhan desain **UI/UX** yang modern dan intuitif. ✨
 
 ---
