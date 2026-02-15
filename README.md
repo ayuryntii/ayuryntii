@@ -2,12 +2,12 @@
   <!-- PREMIUM TYPOGRAPHY HEADER (NAME) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=55&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=100&lines=Ayu+Rianti" alt="Name SVG" />
   
-  <p align="center"><b>Informatics Engineering Student @ UMC Cirebon</b></p>
+  <p align="center"><b>Informatics Engineering Student @ Universitas Muhammadiyah Cirebon</b></p>
 </div>
 
 <div align="center">
   <!-- DYNAMIC PROFESSIONAL TYPING BIO -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Mobile+Development+Orchestrator;UI/UX+Architect;Fullstack+Web+Developer;Office+Productivity+Pro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Mobile+Development+Orchestrator;UI/UX+Architect;Fullstack+Web+Developer;Office+Productivity+Professional" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,16 +18,33 @@
 
 ---
 
-### 📘 Professional Overview
-Saya mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhammadiyah Cirebon**. Fokus saya adalah membangun ekosistem **Mobile & Web Development** yang efisien dengan sentuhan desain **UI/UX** yang modern dan intuitif. ✨
+### 💻 Professional Summary
+Saya adalah mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhammadiyah Cirebon** dengan dedikasi tinggi dalam pengembangan teknologi perangkat lunak. Fokus utama saya mencakup ekosistem **Mobile Development**, perancangan arsitektur **Web Development**, serta spesialisasi mendalam dalam **UI/UX Design**. 
+
+Melalui pendekatan sistematis, saya mengintegrasikan logika pemrograman yang efisien dengan prinsip desain yang intuitif untuk menciptakan solusi digital yang berdampak nyata. Saya berkomitmen untuk terus berinovasi dalam infrastruktur TI dan berkontribusi secara profesional dalam pengembangan solusi berbasis teknologi masa depan. ✨
 
 ---
 
-### 🚀 Tech Stack
-<div align="center">
-  <!-- LOGOS ONLY TECH STACK (CLEAN & PROFESSIONAL) -->
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,androidstudio,html,css,js,php,laravel,py,cpp,mysql,figma,canva,git,vscode,word,excel&theme=light&perline=10" />
-</div>
+### 🚀 Technical Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Development Core</h4>
+      <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,androidstudio,py,cpp,mysql&theme=light&perline=4" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Web & Design Systems</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,figma,canva,git&theme=light&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>📂 Productivity & Toolchain</h4>
+      <img src="https://skillicons.dev/icons?i=vscode,word,excel&theme=light" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,15 +63,15 @@ Saya mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhammadiyah C
 ### ✉️ Let's Connect
 <p align="center">
   <a href="mailto:ayuu.riantii25@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
   <a href="https://instagram.com/ayuryntii_">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
 </p>
 
 <div align="center">
   <br/>
   <img src="https://raw.githubusercontent.com/johannesmeschenmoser/johannesmeschenmoser/master/cat.gif" width="50" />
-  <p><i>"Systematically engineered. Conceptually designed."</i></p>
+  <p><i>"Engineered for the Future. Designed for the Soul."</i></p>
 </div>
