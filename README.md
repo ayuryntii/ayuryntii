@@ -1,15 +1,16 @@
 <div align="center">
-  <!-- PROFESSIONAL SOFT BLUE HEADER -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3B82F6&height=220&section=header&text=Ayu%20Rianti&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" />
+  <!-- RELIABLE HTML HEADER (PASTI MUNCUL) -->
+  <h1 align="center">Ayu Rianti</h1>
+  <p align="center"><b>Informatics Engineering Student @ UMC Cirebon</b></p>
 </div>
 
 <div align="center">
   <!-- DYNAMIC PROFESSIONAL TYPING BIO -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student+%F0%9F%AA%A7;Mobile+Development+Orchestrator;UI/UX+Architect+%26+Balsamiq+Expert;Fullstack+Web+Developer;Office+Productivity+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Mobile+Development+Orchestrator;UI/UX+Architect+%26+Balsamiq+Expert;Fullstack+Web+Developer;Office+Productivity+Professional" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <!-- HIGH-QUALITY AESTHETIC GIRL CODING GIF -->
+  <!-- STABLE AESTHETIC GIRL CODING GIF -->
   <br/>
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/land.gif" width="100%" />
 </div>
