@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- DYNAMIC PROFESSIONAL TYPING BIO -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student+%F0%9F%AA%A7;Mobile+Development+Orchestrator;UI/UX+Architect+%26+Balsamiq+Expert;Office+Productivity+Professional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student+%F0%9F%AA%A7;Mobile+Development+Orchestrator;UI/UX+Architect+%26+Balsamiq+Expert;Fullstack+Web+Developer;Office+Productivity+Professional" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 ---
 
 ### 📘 Professional Summary
-Saya adalah mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhammadiyah Cirebon**. Passion saya terletak pada penggabungan antara logika rekayasa perangkat lunak yang kompleks dengan estetika desain yang modern. Fokus utama saya adalah membangun ekosistem **Mobile Development** yang efisien, intuitif, dan berdampak nyata.
+Saya adalah mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhammadiyah Cirebon**. Passion saya terletak pada penggabungan antara logika rekayasa perangkat lunak yang kompleks dengan estetika desain yang modern. Fokus utama saya adalah membangun ekosistem **Mobile Development** dan **Web Development** yang efisien, intuitif, dan berdampak nyata.
 
 ---
 
@@ -25,8 +25,8 @@ Saya adalah mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhamma
 
 #### 📱 Mobile App Ecosystem
 <p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -34,6 +34,8 @@ Saya adalah mahasiswi **Teknik Informatika Semester 5** di **Universitas Muhamma
 
 #### 🌐 Web & Backend Mastery
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
