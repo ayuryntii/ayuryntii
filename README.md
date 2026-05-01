@@ -64,25 +64,28 @@ Motto      : "Building the Future through Systematic Engineering"
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS (DIVA STYLE - BLUE) ==================== -->
+<!-- ==================== GITHUB ANALYTICS (FIXED WITH MIRROR SERVER) ==================== -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayuryntii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayuryntii&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+  <!-- GitHub Stats using Sigma-Five Mirror (More Stable) -->
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayuryntii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6" alt="GitHub Stats" />
+  <!-- GitHub Streak using Demolab Mirror -->
+  <img width="49%" src="https://streak-stats.demolab.com?user=ayuryntii&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuryntii&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <!-- Top Languages using Sigma-Five Mirror -->
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayuryntii&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- Contribution Graph (Elite Blue Area) -->
+<!-- Contribution Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuryntii&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuryntii&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
