@@ -16,16 +16,21 @@
 ---
 
 ### 💻 Professional Summary
+
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/land.gif" width="220" alt="Tech Animation" />
 
 ```yaml
-Identitas   : Ayu Rianti
-Status      : Mahasiswi Teknik Informatika (Semester 6)
-Instansi    : Universitas Muhammadiyah Cirebon
-Spesialis   : Mobile Architecture & Fullstack Web Engineering
+Nama       : Ayu Rianti
+Status     : Mahasiswi Teknik Informatika (Semester 6)
+Instansi   : Universitas Muhammadiyah Cirebon
+Peran      : Mobile Development Orchestrator & Fullstack Developer
+Fokus      : Mobile Architecture & Scalable Digital Solutions
+Keahlian   : UX Architect & Balsamiq Expert
+Visi       : Mengintegrasikan Logika Presisi dengan Estetika Desain
+Motto      : "Building the Future through Systematic Engineering"
 ```
 
-Mahasiswi Teknik Informatika Semester 6 yang berfokus pada **Mobile Development**, **Web Engineering**, dan **UI/UX Architecture**. Saya berdedikasi mengintegrasikan logika pemrograman presisi dengan prinsip estetika desain untuk menghasilkan produk digital yang fungsional, skalabel, dan unggul secara visual. ✨
+> *Mahasiswi Teknik Informatika Semester 6 yang berfokus pada Mobile Development, Web Engineering, dan UI/UX Architecture. Berdedikasi tinggi dalam menghasilkan produk digital yang fungsional, skalabel, dan unggul secara visual.* ✨
 
 <br clear="both"/>
 
@@ -41,13 +46,13 @@ Mahasiswi Teknik Informatika Semester 6 yang berfokus pada **Mobile Development*
 ---
 
 <!-- ==================== TECHNICAL ECOSYSTEM ==================== -->
-<h2 align="center">🚀 Technical Ecosystem</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
 
 | 📱 Mobile & Core | 🌐 Web Engineering | 🎨 Design & Creative |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,androidstudio,py,cpp&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=figma,canva,balsamiq&theme=dark&perline=3" /> |
+| <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,androidstudio,py,cpp&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind&theme=dark&perline=4" /> | <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40" /> <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" /> <img src="https://skillicons.dev/icons?i=balsamiq&theme=dark" width="40" /> |
 
 <br/>
 
@@ -59,32 +64,25 @@ Mahasiswi Teknik Informatika Semester 6 yang berfokus pada **Mobile Development*
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS (DIVA STYLE) ==================== -->
+<!-- ==================== GITHUB ANALYTICS (DIVA STYLE - BLUE) ==================== -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <!-- Overall Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ayuryntii&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&bg_color=0D1117" width="100%" />
-      </td>
-      <td width="50%">
-        <!-- Activity Streak -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuryntii&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=3B82F6&background=0D1117" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayuryntii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayuryntii&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+</div>
 
-  <br/>
+<br/>
 
-  <!-- Top Languages Percentage (Complete Full Width) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuryntii&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&bg_color=0D1117&langs_count=8" width="85%" />
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuryntii&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+</div>
 
-  <br/><br/>
+<br/>
 
-  <!-- Contribution Graph (Elite Layout) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuryntii&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="95%" />
+<!-- Contribution Graph (Elite Blue Area) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuryntii&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="95%"/>
 </div>
 
 ---
