@@ -4,35 +4,28 @@
 
   <br/>
 
-  <!-- NAME TYPING SVG (LARGE) -->
+  <!-- NAME TYPING SVG -->
   <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=55&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=100&lines=Ayu+Rianti" alt="Name SVG" /></h1>
   
-  <!-- UNIVERSITY TYPING SVG (SMALLER & BLUE) -->
+  <!-- UNIVERSITY TYPING SVG -->
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=50&lines=Informatics+Engineering+Student+@+Universitas+Muhammadiyah+Cirebon" alt="University SVG" />
   </p>
 </div>
 
-<br/>
+---
 
-<!-- ==================== ABOUT ME SECTION (DIVA-STYLE ELITE) ==================== -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35"> <em><b>Tentang Saya</b></em>
-
-<br/><br/>
-
+### 💻 Professional Summary
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/land.gif" width="220" alt="Tech Animation" />
 
 ```yaml
-Nama       : Ayu Rianti
-Status     : Mahasiswi Teknik Informatika (Semester 6)
-Instansi   : Universitas Muhammadiyah Cirebon
-Peran      : Mobile Development Orchestrator & Fullstack Developer
-Fokus      : Mobile Architecture & Scalable Web Systems
-Keahlian   : UX Architect & Balsamiq Expert
-Visi       : Menghasilkan Produk Digital yang Fungsional & Unggul
+Identitas   : Ayu Rianti
+Status      : Mahasiswi Teknik Informatika (Semester 6)
+Instansi    : Universitas Muhammadiyah Cirebon
+Spesialis   : Mobile Architecture & Fullstack Web Engineering
 ```
 
-> *"Saya adalah mahasiswi Teknik Informatika Semester 6 di Universitas Muhammadiyah Cirebon dengan dedikasi tinggi dalam pengembangan solusi teknologi inovatif. Fokus utama pengembangan saya mencakup arsitektur Mobile Development berbasis performa, sistem Web Development yang skalabel, serta perancangan antarmuka UI/UX yang berorientasi pada pengalaman pengguna."* ✨
+Mahasiswi Teknik Informatika Semester 6 yang berfokus pada **Mobile Development**, **Web Engineering**, dan **UI/UX Architecture**. Saya berdedikasi mengintegrasikan logika pemrograman presisi dengan prinsip estetika desain untuk menghasilkan produk digital yang fungsional, skalabel, dan unggul secara visual. ✨
 
 <br clear="both"/>
 
@@ -66,18 +59,18 @@ Visi       : Menghasilkan Produk Digital yang Fungsional & Unggul
 
 ---
 
-<!-- ==================== ANALYTICS & STATS ==================== -->
-<h2 align="center">📊 Vital Analytics & Language Stats</h2>
+<!-- ==================== GITHUB ANALYTICS (DIVA STYLE) ==================== -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%">
-        <!-- GitHub Overall Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=ayuryntii&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=94A3B8&icon_color=3B82F6&bg_color=0D1117" width="100%" />
+        <!-- Overall Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=ayuryntii&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&bg_color=0D1117" width="100%" />
       </td>
       <td width="50%">
-        <!-- GitHub Streak Stats -->
+        <!-- Activity Streak -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuryntii&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=3B82F6&background=0D1117" width="100%" />
       </td>
     </tr>
@@ -85,12 +78,12 @@ Visi       : Menghasilkan Produk Digital yang Fungsional & Unggul
 
   <br/>
 
-  <!-- TOP LANGUAGES PERCENTAGE GRAPH -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuryntii&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=94A3B8&bg_color=0D1117&langs_count=8" width="80%" />
+  <!-- Top Languages Percentage (Complete Full Width) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuryntii&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&bg_color=0D1117&langs_count=8" width="85%" />
 
   <br/><br/>
 
-  <!-- CONTRIBUTION GRAPH (ELITE STYLE) -->
+  <!-- Contribution Graph (Elite Layout) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuryntii&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="95%" />
 </div>
 
