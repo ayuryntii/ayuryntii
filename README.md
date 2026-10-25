@@ -25,6 +25,7 @@ Engineering    : Secure Fullstack Architecture, P2P Systems & Concurrency
 Security Stack : IAM/RBAC, Defensive Engineering, Socket Programming
 Design Mindset : Precision Logic meets Futuristic Cyber HUD Aesthetics
 Mission        : "Hardening Software Ecosystems through Systematic Security Engineering"
+```
 
 <!-- ==================== TECHNICAL ECOSYSTEM (IKON TOOLS) ==================== -->
 <h2 align="center">🛠️ Tech Stack & Security Arsenal</h2>
