@@ -1,123 +1,27 @@
-<!-- ==================== PREMIUM TOP BORDER ==================== -->
+<!-- ==================== PREMIUM CYBER HEADER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0D1117&height=120&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:0284C7&height=180&section=header&text=Ayu%20Rianti&fontSize=42&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20AppSec%20%26%20Secure%20Systems%20Engineer&descAlignY=55&descSize=18&fontColor=ffffff" width="100%" />
 
   <br/>
 
-  <!-- NAME TYPING SVG -->
-  <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=55&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=100&lines=Ayu+Rianti" alt="Name SVG" /></h1>
-  
-  <!-- UNIVERSITY TYPING SVG -->
+  <!-- TYPING SUB-HEADER -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=50&lines=Informatics+Engineering+Student+@+Universitas+Muhammadiyah+Cirebon" alt="University SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=40&lines=Informatics+Engineering+Student+@+Universitas+Muhammadiyah+Cirebon;Specializing+in+Cybersecurity,+AppSec,+and+SOC+Architecture;Building+Resilient,+Scalable,+and+Secure+Software+Systems" alt="Typing SVG" />
   </p>
 </div>
 
 ---
 
-### 💻 Professional Summary
+### 🛡️ Cyber Security & Engineering Profile
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/land.gif" width="220" alt="Tech Animation" />
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/land.gif" width="230" alt="Cyber Telemetry" />
 
 ```yaml
-Nama       : Ayu Rianti
-Status     : Mahasiswi Teknik Informatika (Semester 6)
-Instansi   : Universitas Muhammadiyah Cirebon
-Peran      : Mobile Development Orchestrator & Fullstack Developer
-Fokus      : Mobile Architecture & Scalable Digital Solutions
-Keahlian   : UX Architect & Balsamiq Expert
-Visi       : Mengintegrasikan Logika Presisi dengan Estetika Desain
-Motto      : "Building the Future through Systematic Engineering"
-```
-
-> *Mahasiswi Teknik Informatika Semester 6 yang berfokus pada Mobile Development, Web Engineering, dan UI/UX Architecture. Berdedikasi tinggi dalam menghasilkan produk digital yang fungsional, skalabel, dan unggul secara visual.* ✨
-
-<br clear="both"/>
-
----
-
-<!-- ==================== CENTER ANIMATION ==================== -->
-<div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
-  <br/>
-</div>
-
----
-
-<!-- ==================== TECHNICAL ECOSYSTEM ==================== -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<div align="center">
-
-| 📱 Mobile & Core | 🌐 Web Engineering | 🎨 Design & Creative |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,androidstudio,py,cpp&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind&theme=dark&perline=4" /> | <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="40" /> <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" /> <img src="https://skillicons.dev/icons?i=balsamiq&theme=dark" width="40" /> |
-
-<br/>
-
-| 🗄️ Database Systems | 🛠️ Management & Tools | 📂 Office Excellence |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=git,vscode,postman,trello,xampp&theme=dark&perline=5" /> | <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019.png" width="45" /> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="45" /> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png" width="45" /> |
-
-</div>
-
----
-
-<!-- ==================== GITHUB ANALYTICS (FIXED WITH MIRROR SERVER) ==================== -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <!-- GitHub Stats using Sigma-Five Mirror (More Stable) -->
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayuryntii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6" alt="GitHub Stats" />
-  <!-- GitHub Streak using Demolab Mirror -->
-  <img width="49%" src="https://streak-stats.demolab.com?user=ayuryntii&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages using Sigma-Five Mirror -->
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayuryntii&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- Contribution Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayuryntii&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
-<!-- ==================== CONNECT ==================== -->
-<h2 align="center">✉️ Let's Connect</h2>
-<p align="center">
-  <a href="mailto:ayuu.riantii25@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/ayuryntii_">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ayuryntii">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ayuryntii">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-</p>
-
-<div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/johannesmeschenmoser/johannesmeschenmoser/master/cat.gif" width="50" />
-  <p><i>"Systematically engineered. Conceptually designed."</i></p>
-</div>
-
-<!-- ==================== PREMIUM BOTTOM BORDER ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1D4ED8&height=120&section=footer" width="100%" />
-</div>
-```
+Operator       : Ayu Rianti
+Status         : Informatics Engineering Student (Semester 6)
+Affiliation    : Universitas Muhammadiyah Cirebon
+Primary Focus  : Cybersecurity (AppSec, SOC Intelligence, Cryptography)
+Engineering    : Secure Fullstack Architecture, P2P Systems & Concurrency
+Security Stack : IAM/RBAC, Defensive Engineering, Socket Programming
+Design Mindset : Precision Logic meets Futuristic Cyber HUD Aesthetics
+Mission        : "Hardening Software Ecosystems through Systematic Security Engineering"
